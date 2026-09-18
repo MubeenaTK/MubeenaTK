@@ -1,6 +1,6 @@
 # Hi, I'm Mubeena T K 👋
 
-### Aspiring Data Analyst | EXCEL | SQL | Python | Power BI | Tableau | Machine Learning
+### Aspiring Data Analyst | Excel | SQL | Python | Power BI | Tableau | Machine Learning
 
 I'm a BCA graduate passionate about turning data into meaningful insights and solving business problems through data analysis.
 
